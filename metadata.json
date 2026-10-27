@@ -1,0 +1,6 @@
+{
+  "name": "مكتبة أساليب فنون الألعاب والأنمي | Anime & Game Style Studio",
+  "description": "المنصة العربية المتكاملة لتحويل الشخصيات إلى 100 أسلوب فني في ألعاب الفيديو والأنمي، مع باني برومبتات ذكي، واستوديو توليد الصور، وأداة المقارنة والتصدير.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
